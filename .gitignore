@@ -1,0 +1,14 @@
+# Ambiente virtual
+.venv/
+
+# Arquivos compilados
+__pycache__/
+*.pyc
+
+# Arquivos de sistema
+*.DS_Store
+Thumbs.db
+
+# IDEs e editores
+.vscode/
+*.idea/
